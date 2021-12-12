@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome 👋 !
 
+_______________________________________________________________________________
 <!--
 **asilva-dados/asilva-dados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Sou uma profissional da área de Dados.
+
+Tenho me especializado em Ciência de Dados.
+
+Meu GitHub está 🚧--> em construção <--🚧
+
+Meus principais temas de estudo são: Python, R, NoSQL, Ecossistema Hadoop, Apache Spark, Machine Learning, entre outros...
